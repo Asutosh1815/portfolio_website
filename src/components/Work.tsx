@@ -53,21 +53,24 @@ const Work = () => {
           My <span>Work</span>
         </h2>
         <div className="work-flex">
-          {[...Array(6)].map((_value, index) => (
+          {[...Array(1)].map((_value, index) => (
             <div className="work-box" key={index}>
               <div className="work-info">
                 <div className="work-title">
                   <h3>0{index + 1}</h3>
 
                   <div>
-                    <h4>Project Name</h4>
-                    <p>Category</p>
+                    <h4>IOT based home appliances</h4>
+                    <p>IOT</p>
                   </div>
                 </div>
-                <h4>Tools and features</h4>
-                <p>Javascript, TypeScript, React, Threejs</p>
+                <h4>Blynk</h4>
+                <p>Enables smart home automation by connecting and controlling
+appliances via the internet. Users can manage lights remotely through
+mobile apps.
+</p>
               </div>
-              <WorkImage image="/images/placeholder.webp" alt="" />
+              <WorkImage image="public/images/1732042529184.jpg" alt="" />
             </div>
           ))}
         </div>

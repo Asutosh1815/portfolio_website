@@ -28,7 +28,7 @@ const WhatIDo = () => {
     <div className="whatIDO">
       <div className="what-box">
         <h2 className="title">
-          W<span className="hat-h2">HAT</span>
+          <span className="hat-h2">WHAT</span>
           <div>
             I<span className="do-h2"> DO</span>
           </div>
@@ -88,22 +88,20 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h4>Web Development</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Design and develop websites and web applications.
+Write code using technologies like HTML, CSS, JavaScript, and frameworks.
+Create responsive websites that work on mobile, tablet, and desktop.
+Build user interfaces and improve user experience.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">JavaScript</div>
                 <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
                 <div className="what-tags">React</div>
                 <div className="what-tags">Css</div>
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
                 <div className="what-tags">MySql</div>
               </div>
               <div className="what-arrow"></div>
@@ -128,22 +126,20 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h3>CYBER</h3>
+              <h4>Cyber Security Enthusiast</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Learn about protecting systems, networks, and data from cyber threats.
+Study ethical hacking, penetration testing, and vulnerability assessment.
+Analyze malware, phishing attacks, and security risks.
+Practice network security, encryption, and secure communication methods.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Ethical Hacking</div>
+                <div className="what-tags">Penetration Testing</div>
+                <div className="what-tags">Nmap</div>
+                <div className="what-tags">Kali Linux</div>
               </div>
               <div className="what-arrow"></div>
             </div>

@@ -15,43 +15,44 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Internship</h4>
+                <h5>Ybi Foundation</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>1 Month</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Strengthen my understanding of AI/ML concepts.
+Tackle challenging projects with dedication and enthusiasm.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Internship</h4>
+                <h5>Codtech IT Solutions</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>1 Month</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Gained work on real-time projects, and gain valuable industry
+experience.
+Enhanced my problem-solving ability, creativity, and technical
+proficiency.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Internship</h4>
+                <h5>EliteTech Intern</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>1 Month</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Enhanced my skills in web development and tackled complex
+projects.
+Gained hands-on experience in solving real-world challenges.
+
             </p>
           </div>
         </div>
